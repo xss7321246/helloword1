@@ -7,7 +7,7 @@ public class HelloWord {
 		System.out.println("大家好，我是铁血战士，我要把楼上干掉！");
 		Object a;
 		System.out.println("nihao ");
-		
+		System.out.println("dddddddddddddddddddd");
 		a=true?1:2.0;
 		System.out.println(a);
 	}
