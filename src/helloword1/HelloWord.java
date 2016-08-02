@@ -10,5 +10,6 @@ public class HelloWord {
 		System.out.println("dddddddddddddddddddd");
 		a=true?1:2.0;
 		System.out.println(a);
+		System.out.println("好难啊");
 	}
 }
