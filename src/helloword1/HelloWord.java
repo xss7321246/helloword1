@@ -6,6 +6,8 @@ public class HelloWord {
 		System.out.println("我是异性，我想吸引你，然后把你吃掉");
 		System.out.println("大家好，我是铁血战士，我要把楼上干掉！");
 		Object a;
+		System.out.println("nihao ");
+		
 		a=true?1:2.0;
 		System.out.println(a);
 	}
